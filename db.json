@@ -1,7 +1,7 @@
 {
   "posts": [
     { "id": 1, "title": "Bitcoin é tempo", "link": "https://medium.com/@eduardalobato/bitcoin-tempo-blockchain-1a1438b4ea1", "author": "Eduarda Lobato", "image": "https://cdn.substack.com/image/fetch/w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2F17e5ca6b-41ac-425d-9a22-dccdac01664f_960x692.jpeg", "description": "Um relógio luminoso contra o céu proclamava que a hora não estava errada nem certa.." },
-    { "id": 1, "title": "Minha história com o Bitcoin", "author": "Explica Bitcoin", "image": "https://miro.medium.com/max/700/0*iPztRRRXsoonkrvL", "description": "“O Bitcoin é um enxame de vespas cibernéticas servindo à deusa da Sabedoria, se alime...” Michael Saylor" },
+    { "id": 1, "title": "Minha história com o Bitcoin", "link": "https://explicabitcoin.medium.com/minha-hist%C3%B3ria-com-o-bitcoin-c983d63e80a0", "author": "Explica Bitcoin", "image": "https://miro.medium.com/max/700/0*iPztRRRXsoonkrvL", "description": "“O Bitcoin é um enxame de vespas cibernéticas servindo à deusa da Sabedoria, se alime...” Michael Saylor" },
     { "id": 1, "title": "Post 1", "author": "autor name", "image": "link image", "description": "description" },
     { "id": 1, "title": "Post 1", "author": "autor name", "image": "link image", "description": "description" }
   ],
